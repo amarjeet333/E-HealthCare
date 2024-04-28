@@ -243,8 +243,7 @@
 
           <p class="text-right text-primary"><i>— Amarjeet Anand<br>B.tech CSE</i></p>
           <p class="text-right text-primary"><i>— Abhishek Kumar Choudhary<br>B.tech CSE</i></p>
-          <p class="text-right text-primary"><i>— Rudra Jha<br>B.tech CSE</i></p>
-          <p class="text-right text-primary"><i>— Sk Jeesun Bari<br>B.tech CSE</i></p>
+          
         </div>
         <div class="col-md-2"></div>
       </div>
